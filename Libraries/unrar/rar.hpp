@@ -83,7 +83,7 @@
 #include "volume.hpp"
 #include "smallfn.hpp"
 
-#include "global.hpp"
+#include "globalex.hpp"
 
 #if 0
 #include "benchmark.hpp"
